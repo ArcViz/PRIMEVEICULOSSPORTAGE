@@ -1,0 +1,69 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_04CD78DF_14E6_52F0_41A5_414DBC1F56E5.source = http://twitter.com/loremipsum
+LinkBehaviour_04CDA8DF_14E6_52F0_41A6_5DA83A1D5F3A.source = http://www.twitter.com/loremipsum
+LinkBehaviour_0EBBBE14_18AD_C481_4180_F20372AE2AB3.source = https://api.whatsapp.com/send?phone=5524999426680
+LinkBehaviour_16662103_186C_5C87_4197_5DB26F9F4876.source = https://api.whatsapp.com/send?phone=5524999426680
+LinkBehaviour_0FCD604B_18A4_5C87_41B0_17C1EED84782.source = https://www.facebook.com/primeveiculosvr/
+LinkBehaviour_0FE3DC74_18AC_C481_41AA_5732DA0FC70F.source = https://www.facebook.com/primeveiculosvr/
+LinkBehaviour_0FD06689_18BC_4583_416F_FE6282C4DD47.source = https://www.facebook.com/primeveiculosvr/
+LinkBehaviour_167DD3E3_186C_4387_41A9_5A01CBDC2DEA.source = https://www.facebook.com/primeveiculosvr/
+LinkBehaviour_0EC92D24_18A4_4481_41B1_767173393378.source = https://www.instagram.com/primeveiculosvr/?igshid=1ldvpx0dqampi
+LinkBehaviour_15C3DEF3_186C_C587_41AA_613F7A884375.source = https://www.instagram.com/primeveiculosvr/?igshid=1ldvpx0dqampi
+LinkBehaviour_04CD88DE_14E6_52F0_41AE_BBA7D3E94C26.source = https://www.loremipsum.com
+LinkBehaviour_04CD48DF_14E6_52F0_41A2_D0EBECC42D57.source = https://www.loremipsum.com
+
+## Media
+
+### Audio
+audiores_0BA1FF16_1952_3C48_41B3_E9FB415B6A82.mp3Url = media/audio_0A82954A_1952_4CD8_41A0_6DB437496555_pt.mp3
+
+### Title
+panorama_055651BD_14E6_52B0_4182_437BA45669D1.label = SPORTAGE INTERIOR ATRÁS
+panorama_06E63A12_14E6_F170_41B2_7B36DA4DB843.label = SPORTAGE INTERIOR FRENTE
+panorama_0759B3C4_14EA_D6D0_4158_AA475DA71A78.label = SPORTAGE LATERAL DIREITA
+panorama_05B11E53_14FA_51F0_418D_344B3FF19C56.label = SPORTAGE LATERAL ESQUERDA
+panorama_06F5C321_14F9_B750_41A4_CE3EAFC18AA1.label = SPORTAGE TRASEIRA
+
+## Skin
+
+### Button
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = GO TO BUY 
+
+### Image
+Image_0F709A98_18AC_CD81_41A7_4D3133716930.url = skin/Image_0F709A98_18AC_CD81_41A7_4D3133716930_pt.png
+Image_0FADC949_18AC_4C83_4198_94CF7B9CD8A8.url = skin/Image_0FADC949_18AC_4C83_4198_94CF7B9CD8A8_pt.png
+Image_0FD56FAB_18AF_C387_4184_C24DEE57E832.url = skin/Image_0FD56FAB_18AF_C387_4184_C24DEE57E832_pt.png
+Image_1603E3B7_1864_4380_418B_8517D2692C77.url = skin/Image_1603E3B7_1864_4380_418B_8517D2692C77_pt.png
+Image_160F99E6_186F_CF80_41A7_C3B5FBA247E0.url = skin/Image_160F99E6_186F_CF80_41A7_C3B5FBA247E0_pt.png
+Image_16B37451_1864_4483_419D_6B7EE953EBA6.url = skin/Image_16B37451_1864_4483_419D_6B7EE953EBA6_pt.png
+Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile.url = skin/Image_1F089AA1_342D_3D64_41C5_D320F4A4C707_mobile_pt.png
+Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile.url = skin/Image_1F5560D3_342D_0D24_41C3_009D491A3B6B_mobile_pt.png
+Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile.url = skin/Image_1FC09DB8_342E_F764_41A3_E939228A46A8_mobile_pt.png
+Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile.url = skin/Image_1FC43E22_342D_1564_41BB_A63B6F19A750_mobile_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_pt.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_pt.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_mobile.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_mobile_pt.png
+Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5.url = skin/Image_6B6FAA55_64A6_71AF_41D3_F197980C21A5_pt.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile_pt.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_pt.jpg
+
+### Multiline Text
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.85vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.85vmin;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.149999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:6.15vmin;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.699999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';"><B>General Data:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.979999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.699999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4.7vmin;font-family:'Roboto Black';"><B>Year 2019 / 51.214 kms / Diesel / 5 doors / 90 cv / Manual</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.7vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:9.039999999999996vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.04vmin;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.019999999999999vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5699999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>SPORTBACK 1.4 / TDI ULTRA / 90 CV / ATTRACTION </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">General Data:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Year 2019 / 51.214 kms / Diesel / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 doors / 90 cv / Manual</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.45vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$18300</B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:5.25vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:5vmin;font-family:'Segoe UI';"/></p></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.429999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>PRIME VEÍCULOS</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.63);text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Exo';"><B><I>PRIME VEÍCULOS</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PRIME VEÍCULOS - SPORTAGE
